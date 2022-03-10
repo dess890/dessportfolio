@@ -10,14 +10,13 @@ const Feedbacks = () => {
 			<Container>
 				<Fade bottom duration={1000} distance="40px">
 					<div className="d-flex p-4">
-						<div>
+						{/* <div>
 							<div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-info">
 								<i className="fa fa-star text-info" />
 							</div>
-						</div>
+						</div> */}
 						<div className="pl-4">
 							<h4 className="display-3 text-info">
-								Our Clients Feedback
 							</h4>
 						</div>
 					</div>
